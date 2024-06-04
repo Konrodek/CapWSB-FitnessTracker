@@ -1,4 +1,4 @@
-package com.capgemini.wsb.fitnesstracker.livecoding.bean;
+package com.capgemini.wsb.fitnesstracker.example.bean;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
